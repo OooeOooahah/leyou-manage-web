@@ -11,4 +11,4 @@
     在Terminal下输入： npm install  等待安装完成
     在Terminal下输入： npm run dev  启动项目
   配置Nginx反向代理服务器：可以配置本地伪装域名
-    
+
